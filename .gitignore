@@ -14,6 +14,7 @@ testEnv.py
 preprocessingScript.py
 gtBoxEval.py
 gtShift.py
+mygraph.png
 mygraph0.png
 mygraph1.png
 mygraph2.png
